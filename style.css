@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(/Users/bettscy/Desktop/IMAGES/pixal.gif);
+    background-image: url(pixal.gif);
     background-size: cover;
     background-position: right;
 }
